@@ -5,6 +5,8 @@
 
 Gold Coast, Australia · open for remote roles
 
+<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/intro/int_f0587d5a7514cbe6"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/intro/int_f0587d5a7514cbe6/play" alt="▶ Watch the introduction by Alexey Melnikov’s AI avatar (0:44)" title="▶ Watch the introduction by Alexey Melnikov’s AI avatar (0:44)" width="320"></a></p>
+
 I build products that act for people: a résumé agent that answers visitors' questions, a personal agent that runs everyday errands, and a house planner that turns a plot into a checked sketch. I also build crypto money tools, such as a wallet that explains transactions before you sign, a trading desk watching price gaps, and a World Cup prediction game for friends. Earlier I worked on geological data, retail self-service screens, city traffic systems and trading platforms.
 
 ### Projects
