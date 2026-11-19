@@ -19,7 +19,7 @@ AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work 
 
 <p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3" alt="Landing page" title="Landing page" width="200"></a></p>
+<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3" alt="Landing page" title="Landing page" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_96f31c843a02ee7a"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_96f31c843a02ee7a" alt="Résumé" title="Résumé" width="200"></a></p>
 
 ---
 
