@@ -35,9 +35,9 @@ Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D mo
 
 *Subagents father · Oct 2026 – Nov 2026*
 
-DeepMarket is a personal AI agent, used from a phone-friendly web app \(with an iPhone companion app\), that does everyday work for you by hiring specialised sub-agents and paying them. It triages your Gmail into tasks, drafts replies you approve with Face ID, keeps your Google Calendar in sync, watches airfares and sports fixtures, plans flights, compares stays and products, and checks bills on sites you log into. You approve each hire or budget with your passkey, the agent pays from your own smart wallet into an escrow, and the seller is paid only for work it delivers.
+DeepMarket is a personal assistant that runs your errands by hiring specialised sub-agents for you and paying them from your own wallet. It reads your mail and turns what needs doing into tasks and reply drafts, keeps your calendar in step, watches fares, compares stays and products, follows your kids' sports fixtures and checks your bills on sites you are logged in to. Nothing is sent, booked or paid until you approve it with your passkey \(Face ID\).
 
-`Rust` `Restate` `PostgreSQL with pgvector` `Solidity / Foundry` `Base Sepolia` `alloy` `x402` `TypeScript / Node.js`
+`Rust` `Restate` `Postgres with pgvector` `TypeScript / Node` `React, Tailwind, Vite` `@simplewebauthn` `Swift / iOS` `Solidity / Foundry`
 
 ---
 
