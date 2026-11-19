@@ -17,7 +17,7 @@ AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work 
 
 `TypeScript / Node 22` `React 19 + Vite + Tailwind` `Postgres with pgvector` `Anthropic SDK (Claude Opus, Haiku)` `Voyage AI embeddings` `Restate` `SimpleWebAuthn` `Playwright`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_565db4f4f4eacc4c"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_565db4f4f4eacc4c/play" alt="▶ Watch the video of AMA (0:48)" title="▶ Watch the video of AMA (0:48)" width="320"></a></p>
+<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
 ---
 
