@@ -47,7 +47,7 @@ DeepMarket is a personal assistant that runs your errands by hiring specialised 
 
 #### OpenSui
 
-*Sole builder and architect · Aug 2026 – Nov 2026*
+*Sole builder and architect · Aug 2026 – present*
 
 OpenSui is a self-custody wallet for the Sui blockchain. It runs as a Chrome extension, as an iPhone or web app, and as a read-only web portal. Before you sign anything, it shows in plain words what the transaction will do and how your balances will change. You can pay gas in coins other than SUI, save any transaction as a reusable template and run it again on one wallet or many, and ask an AI composer to build a transaction from a sentence. The same wallet also handles swaps, lending, DeepBook trading, perps and Predict, and has encrypted messaging, payments and calls between addresses. The goal is to use Sui apps from one place without signing transactions you cannot read.
 
