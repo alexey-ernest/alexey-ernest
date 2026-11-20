@@ -64,21 +64,7 @@ An arbitrage monitoring and trading desk that keeps live order books in sync acr
 `Rust` `Tokio` `tokio-tungstenite` `crossbeam-channel` `axum / tower-http` `SQLite (rusqlite)` `crc32fast` `React + Zustand`
 
 <details>
-<summary>5 more projects</summary>
-
-#### FIL 2026 — Football Is Life
-
-*Sole builder, architect and player · Apr 2026 – Aug 2026*
-
-FIL 2026 is a social prediction game for the FIFA World Cup 2026 in which friends stake USDC into private leagues, earn virtual points through AI-generated live pop-up questions, position trading on match probabilities and pre-match score predictions, and split the prize pool by stake × points. It adds a collectible NFT player-card layer with on-chain card-for-card trading and fusion, and Team Battles where users field 11 same-nation cards in simulated matches and an in-league World Cup battle tournament.
-
-`TypeScript` `React` `Fastify` `SQLite (better-sqlite3)` `Sui Move` `Anthropic Claude API` `OpenAI gpt-image-2` `Fly.io`
-
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b/play" alt="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" title="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" width="320"></a></p>
-
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_b3b093e1231146b2"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_b3b093e1231146b2" alt="Football Is Life 2026" title="Football Is Life 2026" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_1536db381960c1b9"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_1536db381960c1b9" alt="Office World Cup Pool" title="Office World Cup Pool" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_bfcaff2c9898a6f0"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_bfcaff2c9898a6f0" alt="Ranks" title="Ranks" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_22a0d36c6c46f0b6"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_22a0d36c6c46f0b6" alt="Friday Night Futbol" title="Friday Night Futbol" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_f4129a8042db5794"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_f4129a8042db5794" alt="Match 14 live chart with the pop-up question open, 30 s coun" title="Match 14 live chart with the pop-up question open, 30 s coun" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_838fe05a94db1e2c"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_838fe05a94db1e2c" alt="Match 14 commentary" title="Match 14 commentary" width="200"></a></p>
-
----
+<summary>4 more projects</summary>
 
 #### Geological data digitisation at Google X
 
