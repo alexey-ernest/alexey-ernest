@@ -41,6 +41,8 @@ DeepMarket is a personal assistant that runs your errands by hiring specialised 
 
 `Rust` `Restate` `Postgres with pgvector` `TypeScript / Node` `React, Tailwind, Vite` `@simplewebauthn` `Swift / iOS` `Solidity / Foundry`
 
+<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2/play" alt="▶ Watch the video of DeepMarket (0:57)" title="▶ Watch the video of DeepMarket (0:57)" width="320"></a></p>
+
 ---
 
 #### OpenSui
