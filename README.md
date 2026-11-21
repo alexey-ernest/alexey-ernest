@@ -61,7 +61,7 @@ Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D mo
 
 *Founder and trader · 2022–present*
 
-An arbitrage monitoring and trading desk that keeps live order books in sync across about two dozen crypto exchanges and several on-chain venues. It finds routes where buying and selling across markets, with transfers where needed, pays more than it costs, and ranks them by dollars earned per hour of capital tied up. In one live reading it had 30 of 32 venues live with 19.2K order books synced, and handled about 35.8K book updates per second with 0 dropped events. A 2-shard graph engine scored 1.4M cycles per second and tracked 1,306 live opportunities. At busy market times it passes 100K updates per second. Trading keys never leave the browser.
+An arbitrage monitoring and trading desk that keeps live order books in sync across about two dozen crypto exchanges and several on-chain venues. It finds routes where buying and selling across markets, with transfers where needed, pays more than it costs, and ranks them by dollars earned per hour of capital tied up. In one live reading it had 30 of 32 venues live with 19.2K order books synced, and handled about 35.8K book updates per second with 0 dropped events. A 2-shard graph engine scored 1.4M cycles per second and tracked 1,306 live opportunities. At busy market times it passes 100K updates per second. Trading keys never leave the browser. A watchdog wakes a Claude agent on lasting incidents, using health and pipeline-telemetry checks, and the agent can resync, pause or refresh venues through the ops API.
 
 `Rust` `Tokio` `tokio-tungstenite` `crossbeam-channel` `axum / tower-http` `SQLite (rusqlite)` `crc32fast` `React + Zustand`
 
