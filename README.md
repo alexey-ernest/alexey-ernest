@@ -53,7 +53,7 @@ OpenSui is a self-custody wallet for the Sui blockchain. It runs as a Chrome ext
 
 `TypeScript` `React` `WXT (MV3 Chrome extension)` `Capacitor` `@mysten/sui SDK (gRPC + GraphQL)` `hash-wasm (Argon2id)` `@noble curves/ciphers/hashes` `Anthropic SDK`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_727be368a1269d43"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_727be368a1269d43/play" alt="▶ Watch the video of OpenSui (0:44)" title="▶ Watch the video of OpenSui (0:44)" width="320"></a></p>
+<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0/play" alt="▶ Watch the video of OpenSui (0:52)" title="▶ Watch the video of OpenSui (0:52)" width="320"></a></p>
 
 ---
 
