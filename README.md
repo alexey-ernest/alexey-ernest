@@ -23,16 +23,6 @@ AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work 
 
 ---
 
-#### Varvarovka
-
-*Experimentator · Nov 2026*
-
-Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D model of a real land lot. You talk to a chat. You can start from an empty lot or a scanned floor plan and add a house, change the ground, place furniture and build a garden. Each change shows up in the 3D scene right away and is checked against site, safety and building rules. You can walk through the house, view it at any time of day, and get photoreal renders that keep the real geometry. The aim is to let someone who is not an architect turn a plot and an idea into a correct house sketch they can share.
-
-`three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
-
----
-
 #### DeepMarket
 
 *Subagents father · Oct 2026 – Nov 2026*
@@ -42,6 +32,16 @@ DeepMarket is a personal assistant that runs your errands by hiring specialised 
 `Rust` `Restate` `Postgres with pgvector` `TypeScript / Node` `React, Tailwind, Vite` `@simplewebauthn` `Swift / iOS` `Solidity / Foundry`
 
 <p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2/play" alt="▶ Watch the video of DeepMarket (0:57)" title="▶ Watch the video of DeepMarket (0:57)" width="320"></a></p>
+
+---
+
+#### Varvarovka
+
+*Experimentator · Nov 2026*
+
+Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D model of a real land lot. You talk to a chat. You can start from an empty lot or a scanned floor plan and add a house, change the ground, place furniture and build a garden. Each change shows up in the 3D scene right away and is checked against site, safety and building rules. You can walk through the house, view it at any time of day, and get photoreal renders that keep the real geometry. The aim is to let someone who is not an architect turn a plot and an idea into a correct house sketch they can share.
+
+`three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
 
 ---
 
