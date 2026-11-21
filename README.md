@@ -9,16 +9,6 @@ I build AI-powered products. These include a résumé agent that answers recruit
 
 ### Projects
 
-#### Varvarovka
-
-*Experimentator · Nov 2026*
-
-Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D model of a real land lot. You talk to a chat. You can start from an empty lot or a scanned floor plan and add a house, change the ground, place furniture and build a garden. Each change shows up in the 3D scene right away and is checked against site, safety and building rules. You can walk through the house, view it at any time of day, and get photoreal renders that keep the real geometry. The aim is to let someone who is not an architect turn a plot and an idea into a correct house sketch they can share.
-
-`three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
-
----
-
 #### AMA
 
 *Back-end developer · Nov 2026*
@@ -30,6 +20,16 @@ AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work 
 <p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
 <p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3" alt="Landing page" title="Landing page" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_96f31c843a02ee7a"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_96f31c843a02ee7a" alt="Résumé" title="Résumé" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_018f9056e8c5e282"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_018f9056e8c5e282" alt="Chat: owner tells AMA about work" title="Chat: owner tells AMA about work" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_8b8b1ee98722626e"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_8b8b1ee98722626e" alt="Scan report" title="Scan report" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_5bee44e90c14d062"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_5bee44e90c14d062" alt="Priya Raman" title="Priya Raman" width="200"></a></p>
+
+---
+
+#### Varvarovka
+
+*Experimentator · Nov 2026*
+
+Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D model of a real land lot. You talk to a chat. You can start from an empty lot or a scanned floor plan and add a house, change the ground, place furniture and build a garden. Each change shows up in the 3D scene right away and is checked against site, safety and building rules. You can walk through the house, view it at any time of day, and get photoreal renders that keep the real geometry. The aim is to let someone who is not an architect turn a plot and an idea into a correct house sketch they can share.
+
+`three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
 
 ---
 
