@@ -35,16 +35,6 @@ DeepMarket is a personal assistant that runs your errands by hiring specialised 
 
 ---
 
-#### Varvarovka
-
-*Experimentator · Nov 2026*
-
-Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D model of a real land lot. You talk to a chat. You can start from an empty lot or a scanned floor plan and add a house, change the ground, place furniture and build a garden. Each change shows up in the 3D scene right away and is checked against site, safety and building rules. You can walk through the house, view it at any time of day, and get photoreal renders that keep the real geometry. The aim is to let someone who is not an architect turn a plot and an idea into a correct house sketch they can share.
-
-`three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
-
----
-
 #### OpenSui
 
 *Sole builder and architect · Aug 2026 – present*
@@ -54,6 +44,16 @@ OpenSui is a self-custody wallet for the Sui blockchain. It runs as a Chrome ext
 `TypeScript` `React` `WXT (MV3 Chrome extension)` `Capacitor` `@mysten/sui SDK (gRPC + GraphQL)` `hash-wasm (Argon2id)` `@noble curves/ciphers/hashes` `Anthropic SDK`
 
 <p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0/play" alt="▶ Watch the video of OpenSui (0:52)" title="▶ Watch the video of OpenSui (0:52)" width="320"></a></p>
+
+---
+
+#### Varvarovka
+
+*Experimentator · Nov 2026*
+
+Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D model of a real land lot. You talk to a chat. You can start from an empty lot or a scanned floor plan and add a house, change the ground, place furniture and build a garden. Each change shows up in the 3D scene right away and is checked against site, safety and building rules. You can walk through the house, view it at any time of day, and get photoreal renders that keep the real geometry. The aim is to let someone who is not an architect turn a plot and an idea into a correct house sketch they can share.
+
+`three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
 
 ---
 
