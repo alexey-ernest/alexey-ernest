@@ -55,7 +55,7 @@ Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D mo
 
 `three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4c63d4a32c31b731"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4c63d4a32c31b731/play" alt="▶ Watch the video of Varvarovka (0:58)" title="▶ Watch the video of Varvarovka (0:58)" width="320"></a></p>
+<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_9d1ff7b122fc21ef"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_9d1ff7b122fc21ef/play" alt="▶ Watch the video of Varvarovka (0:50)" title="▶ Watch the video of Varvarovka (0:50)" width="320"></a></p>
 
 ---
 
