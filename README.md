@@ -51,7 +51,7 @@ OpenSui is a self-custody wallet for the Sui blockchain. It runs as a Chrome ext
 
 *Experimentator · Nov 2026*
 
-Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D model of a real land lot. You talk to a chat. You can start from an empty lot or a scanned floor plan and add a house, change the ground, place furniture and build a garden. Each change shows up in the 3D scene right away and is checked against site, safety and building rules. You can walk through the house, view it at any time of day, and get photoreal renders that keep the real geometry. The aim is to let someone who is not an architect turn a plot and an idea into a correct house sketch they can share.
+Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D model of a real land lot. You talk to a chat. You can start from an empty lot or a scanned floor plan and add a house, change the ground, place furniture and build a garden. Each change shows up in the 3D scene right away and is checked against site, safety and building rules. You can walk through the house, view it at any time of day, and get photoreal renders that keep the real geometry. The aim is to let someone who is not an architect turn a plot and an idea into a correct house sketch they can share. Built the chat agent's tool-use loop, where each model edit runs through typed tools and a commit step that checks schema, lot boundary, site, ground and safety rules before applying it.
 
 `three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
 
