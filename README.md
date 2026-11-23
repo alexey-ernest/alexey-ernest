@@ -92,6 +92,8 @@ An R&amp;D engagement at Google X \(via EPAM Systems\) to digitise and structure
 
 `Python`
 
+<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_09ecc12f1d68e7be"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_09ecc12f1d68e7be/play" alt="▶ Watch the video of Geological data digitisation at Google X (0:43)" title="▶ Watch the video of Geological data digitisation at Google X (0:43)" width="320"></a></p>
+
 ---
 
 #### Self-service systems UI at Walmart
