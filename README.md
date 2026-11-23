@@ -17,9 +17,9 @@ AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work 
 
 `TypeScript / Node 22` `React 19 + Vite + Tailwind` `Postgres with pgvector` `Anthropic SDK (Claude Opus, Haiku)` `Voyage AI embeddings` `Restate` `SimpleWebAuthn` `Playwright`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3" alt="Landing page" title="Landing page" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_96f31c843a02ee7a"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_96f31c843a02ee7a" alt="Résumé" title="Résumé" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_018f9056e8c5e282"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_018f9056e8c5e282" alt="Chat: owner tells AMA about work" title="Chat: owner tells AMA about work" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_8b8b1ee98722626e"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_8b8b1ee98722626e" alt="Scan report" title="Scan report" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_5bee44e90c14d062"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_5bee44e90c14d062" alt="Priya Raman" title="Priya Raman" width="200"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_9ba1059ddeb473f3" alt="Landing page" title="Landing page" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_96f31c843a02ee7a"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_96f31c843a02ee7a" alt="Résumé" title="Résumé" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_018f9056e8c5e282"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_018f9056e8c5e282" alt="Chat: owner tells AMA about work" title="Chat: owner tells AMA about work" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_8b8b1ee98722626e"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_8b8b1ee98722626e" alt="Scan report" title="Scan report" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_5bee44e90c14d062"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_5bee44e90c14d062" alt="Priya Raman" title="Priya Raman" width="200"></a></p>
 
 ---
 
@@ -31,7 +31,7 @@ DeepMarket is a personal assistant that runs your errands by hiring specialised 
 
 `Rust` `Restate` `Postgres with pgvector` `TypeScript / Node` `React, Tailwind, Vite` `@simplewebauthn` `Swift / iOS` `Solidity / Foundry`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2/play" alt="▶ Watch the video of DeepMarket (0:57)" title="▶ Watch the video of DeepMarket (0:57)" width="320"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2/play" alt="▶ Watch the video of DeepMarket (0:57)" title="▶ Watch the video of DeepMarket (0:57)" width="320"></a></p>
 
 ---
 
@@ -43,7 +43,7 @@ OpenSui is a self-custody wallet for the Sui blockchain. It runs as a Chrome ext
 
 `TypeScript` `React` `WXT (MV3 Chrome extension)` `Capacitor` `@mysten/sui SDK (gRPC + GraphQL)` `hash-wasm (Argon2id)` `@noble curves/ciphers/hashes` `Anthropic SDK`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0/play" alt="▶ Watch the video of OpenSui (0:52)" title="▶ Watch the video of OpenSui (0:52)" width="320"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0/play" alt="▶ Watch the video of OpenSui (0:52)" title="▶ Watch the video of OpenSui (0:52)" width="320"></a></p>
 
 ---
 
@@ -55,7 +55,7 @@ Varvarovka \(Varvarovka Hills\) is an AI-assisted house planner built on a 3D mo
 
 `three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_9d1ff7b122fc21ef"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_9d1ff7b122fc21ef/play" alt="▶ Watch the video of Varvarovka (0:50)" title="▶ Watch the video of Varvarovka (0:50)" width="320"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_9d1ff7b122fc21ef"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_9d1ff7b122fc21ef/play" alt="▶ Watch the video of Varvarovka (0:50)" title="▶ Watch the video of Varvarovka (0:50)" width="320"></a></p>
 
 ---
 
@@ -78,9 +78,9 @@ FIL 2026 is a social prediction game for the FIFA World Cup 2026 in which friend
 
 `TypeScript` `React` `Fastify` `SQLite (better-sqlite3)` `Sui Move` `Anthropic Claude API` `OpenAI gpt-image-2` `Fly.io`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b/play" alt="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" title="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" width="320"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b/play" alt="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" title="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" width="320"></a></p>
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_b3b093e1231146b2"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_b3b093e1231146b2" alt="Football Is Life 2026" title="Football Is Life 2026" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_1536db381960c1b9"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_1536db381960c1b9" alt="Office World Cup Pool" title="Office World Cup Pool" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_bfcaff2c9898a6f0"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_bfcaff2c9898a6f0" alt="Ranks" title="Ranks" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_22a0d36c6c46f0b6"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_22a0d36c6c46f0b6" alt="Friday Night Futbol" title="Friday Night Futbol" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_f4129a8042db5794"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_f4129a8042db5794" alt="Match 14 live chart with the pop-up question open, 30 s coun" title="Match 14 live chart with the pop-up question open, 30 s coun" width="200"></a> <a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_838fe05a94db1e2c"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/shots/sht_838fe05a94db1e2c" alt="Match 14 commentary" title="Match 14 commentary" width="200"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_b3b093e1231146b2"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_b3b093e1231146b2" alt="Football Is Life 2026" title="Football Is Life 2026" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_1536db381960c1b9"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_1536db381960c1b9" alt="Office World Cup Pool" title="Office World Cup Pool" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_bfcaff2c9898a6f0"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_bfcaff2c9898a6f0" alt="Ranks" title="Ranks" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_22a0d36c6c46f0b6"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_22a0d36c6c46f0b6" alt="Friday Night Futbol" title="Friday Night Futbol" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_f4129a8042db5794"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_f4129a8042db5794" alt="Match 14 live chart with the pop-up question open, 30 s coun" title="Match 14 live chart with the pop-up question open, 30 s coun" width="200"></a> <a href="https://amaagent.app/api/public/alexey-melnikov/shots/sht_838fe05a94db1e2c"><img src="https://amaagent.app/api/public/alexey-melnikov/shots/sht_838fe05a94db1e2c" alt="Match 14 commentary" title="Match 14 commentary" width="200"></a></p>
 
 ---
 
@@ -92,7 +92,7 @@ An R&amp;D engagement at Google X \(via EPAM Systems\) to digitise and structure
 
 `Python`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_09ecc12f1d68e7be"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_09ecc12f1d68e7be/play" alt="▶ Watch the video of Geological data digitisation at Google X (0:43)" title="▶ Watch the video of Geological data digitisation at Google X (0:43)" width="320"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_09ecc12f1d68e7be"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_09ecc12f1d68e7be/play" alt="▶ Watch the video of Geological data digitisation at Google X (0:43)" title="▶ Watch the video of Geological data digitisation at Google X (0:43)" width="320"></a></p>
 
 ---
 
@@ -114,7 +114,7 @@ Smart City systems that collect, process and analyse traffic and location data f
 
 `Scala` `Node.js` `Express` `React` `Kepler.gl` `http4s` `Cats` `AWS Aurora/MySQL` `Docker` `DC/OS` `Jenkins`
 
-<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_d88ae8c7406c1885"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_d88ae8c7406c1885/play" alt="▶ Watch the video of Verizon Smart City (0:36)" title="▶ Watch the video of Verizon Smart City (0:36)" width="320"></a></p>
+<p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_d88ae8c7406c1885"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_d88ae8c7406c1885/play" alt="▶ Watch the video of Verizon Smart City (0:36)" title="▶ Watch the video of Verizon Smart City (0:36)" width="320"></a></p>
 
 ---
 
@@ -130,7 +130,7 @@ This project was an AI-based trading platform that predicts market prices and tr
 
 ---
 
-[The whole résumé, and an agent that answers questions about it](https://ama-agent.fly.dev/u/alexey-melnikov)
+[The whole résumé, and an agent that answers questions about it](https://amaagent.app/u/alexey-melnikov)
 
 <sub>This section is kept current by AMA from the résumé: a change made here is written over.</sub>
 <!-- ama:end -->
