@@ -122,7 +122,7 @@ Smart City systems that collect, process and analyse traffic and location data f
 
 *Lead Software Engineer · Nov 2016 – Sep 2017*
 
-An AI-powered trading platform for market-price and trend prediction. I built big-data pipelines, web APIs for mobile and web apps, GPU cloud infrastructure for neural-network training and MLP, RNN and ELM models, and as technical project manager led a small data-engineering team. Managed a small data-engineering team, ran code reviews and mentored junior developers.
+This project was an AI-based trading platform that predicts market prices and trends. I built the big-data pipelines and the web APIs used by mobile and web apps. I also set up GPU cloud infrastructure for training neural networks, including MLP, RNN and ELM models. As technical project manager, I led a small data-engineering team, ran code reviews, and mentored junior developers.
 
 `Spark` `Spark SQL` `Spark Streaming` `AWS EMR` `Node.js` `MongoDB` `Docker` `AWS`
 
