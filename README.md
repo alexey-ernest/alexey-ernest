@@ -114,6 +114,8 @@ Smart City systems that collect, process and analyse traffic and location data f
 
 `Scala` `Node.js` `Express` `React` `Kepler.gl` `http4s` `Cats` `AWS Aurora/MySQL` `Docker` `DC/OS` `Jenkins`
 
+<p><a href="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_d88ae8c7406c1885"><img src="https://ama-agent.fly.dev/api/public/alexey-melnikov/videos/vid_d88ae8c7406c1885/play" alt="▶ Watch the video of Verizon Smart City (0:36)" title="▶ Watch the video of Verizon Smart City (0:36)" width="320"></a></p>
+
 ---
 
 #### AI-powered trading platform at Watstock
