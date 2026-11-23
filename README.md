@@ -27,7 +27,7 @@ AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work 
 
 *Subagents father · Oct 2026 – Nov 2026*
 
-DeepMarket is a personal assistant that runs your errands by hiring specialised sub-agents for you and paying them from your own wallet. It reads your mail and turns what needs doing into tasks and reply drafts, keeps your calendar in step, watches fares, compares stays and products, follows your kids' sports fixtures and checks your bills on sites you are logged in to. Nothing is sent, booked or paid until you approve it with your passkey \(Face ID\). Used scripted model answers for plumbing tests and kept live prompt evals separate.
+DeepMarket is a personal assistant that runs your errands by hiring specialised sub-agents for you and paying them from your own wallet. It reads your mail and turns what needs doing into tasks and reply drafts, keeps your calendar in step, watches fares, compares stays and products, follows your kids' sports fixtures and checks your bills on sites you are logged in to. Nothing is sent, booked or paid until you approve it with your passkey \(Face ID\).
 
 `Rust` `Restate` `Postgres with pgvector` `TypeScript / Node` `React, Tailwind, Vite` `@simplewebauthn` `Swift / iOS` `Solidity / Foundry`
 
