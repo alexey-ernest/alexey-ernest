@@ -1,7 +1,7 @@
 <!-- ama:start -->
 ## Alexey Melnikov
 
-**AI Software Engineer**
+**AI Product Engineer**
 
 Gold Coast, Australia · open for remote roles
 
