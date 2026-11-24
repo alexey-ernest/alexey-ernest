@@ -15,7 +15,7 @@ I build AI-powered products. These include a résumé agent that answers recruit
 
 AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work by talking to it in one chat and by connecting your GitHub repositories, which it reads in depth. From that memory it keeps a public résumé at your own address, with screenshots and short narrated videos of your projects, and a short video in which an AI avatar of you, with your face and voice, introduces you. On the résumé, recruiters and other visitors can ask your agent about your work, and you decide exactly what each audience may see. It means you no longer have to write up and keep updating your projects by hand, and visitors can get real answers about your work without reaching your private notes or code.
 
-`TypeScript / Node 22` `React + Vite PWA` `Postgres 16 with pgvector` `Restate` `Anthropic Claude (Haiku/Opus)` `Voyage AI` `Playwright + ffmpeg` `Tigris (S3) via aws4fetch`
+`TypeScript / Node 22` `node:http` `React, Vite, Tailwind` `Postgres 16 + pgvector` `Restate` `Anthropic Claude (Haiku/Opus)` `Voyage embeddings` `Playwright`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
