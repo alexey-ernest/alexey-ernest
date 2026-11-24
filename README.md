@@ -11,11 +11,11 @@ I build AI-powered products. These include a résumé agent that answers recruit
 
 #### AMA
 
-*Back-end developer · Nov 2026*
+*Back-end developer · Nov 2026 – present*
 
 AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work by talking to it in one chat and by connecting your GitHub repositories, which it reads in depth. From that memory it keeps a public résumé at your own address, with screenshots and short narrated videos of your projects, and a short video in which an AI avatar of you, with your face and voice, introduces you. On the résumé, recruiters and other visitors can ask your agent about your work, and you decide exactly what each audience may see. It means you no longer have to write up and keep updating your projects by hand, and visitors can get real answers about your work without reaching your private notes or code.
 
-`TypeScript / Node 22` `React 19 + Vite + Tailwind` `Postgres with pgvector` `Anthropic SDK (Claude Opus, Haiku)` `Voyage AI embeddings` `Restate` `SimpleWebAuthn` `Playwright`
+`TypeScript / Node 22` `React + Vite PWA` `Postgres 16 with pgvector` `Restate` `Anthropic Claude (Haiku/Opus)` `Voyage AI` `Playwright + ffmpeg` `Tigris (S3) via aws4fetch`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
@@ -29,7 +29,7 @@ AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work 
 
 DeepMarket is a personal assistant that runs your errands by hiring specialised sub-agents for you and paying them from your own wallet. It reads your mail and turns what needs doing into tasks and reply drafts, keeps your calendar in step, watches fares, compares stays and products, follows your kids' sports fixtures and checks your bills on sites you are logged in to. Nothing is sent, booked or paid until you approve it with your passkey \(Face ID\).
 
-`Rust` `Restate` `Postgres with pgvector` `TypeScript / Node` `React, Tailwind, Vite` `@simplewebauthn` `Swift / iOS` `Solidity / Foundry`
+`Rust` `Restate` `PostgreSQL` `TypeScript / Node.js` `React` `Solidity / Foundry` `JSON Schema 2020-12` `Playwright / Chromium`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2/play" alt="▶ Watch the video of DeepMarket (0:57)" title="▶ Watch the video of DeepMarket (0:57)" width="320"></a></p>
 
