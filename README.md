@@ -13,7 +13,7 @@ I build AI-powered products. These include a résumé agent that answers recruit
 
 *Back-end developer · Nov 2026 – present*
 
-AMA \("Ask My Agent"\) is a professional agent. You build a memory of your work by talking to it in one chat and by connecting your GitHub repositories, which it reads in depth. From that memory it keeps a public résumé at your own address, with screenshots and short narrated videos of your projects, and a short video in which an AI avatar of you, with your face and voice, introduces you. On the résumé, recruiters and other visitors can ask your agent about your work, and you decide exactly what each audience may see. It means you no longer have to write up and keep updating your projects by hand, and visitors can get real answers about your work without reaching your private notes or code.
+AMA is a personal AI agent that answers visitors' questions about its owner using only what the owner has chosen to make public, and it gives the owner a published résumé with project pages, a version tailored to each job, and a rehearsal scan that finds gaps before the résumé is sent. It can also search job boards and send applications from the owner's own phone, which cuts down the manual steps of job hunting. I was the back-end developer on the project.
 
 `TypeScript / Node 22` `node:http` `React, Vite, Tailwind` `Postgres 16 + pgvector` `Restate` `Anthropic Claude (Haiku/Opus)` `Voyage embeddings` `Playwright`
 
