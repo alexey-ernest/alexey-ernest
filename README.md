@@ -74,7 +74,7 @@ EdgeRunner is a trading toolkit for crypto traders and arbitrage operators who h
 
 *Sole builder, architect and player · Apr 2026 – Aug 2026*
 
-FIL 2026 is a social prediction game for the FIFA World Cup 2026 in which friends stake USDC into private leagues, earn virtual points through AI-generated live pop-up questions, position trading on match probabilities and pre-match score predictions, and split the prize pool by stake × points. It adds a collectible NFT player-card layer with on-chain card-for-card trading and fusion, and Team Battles where users field 11 same-nation cards in simulated matches and an in-league World Cup battle tournament.
+FIL 2026 is a World Cup game for groups of football fans who want to play each other for a shared USDC prize pool. It lets you join a friend league with an invite code and stake USDC into a pot shared by the group. It lets you answer live Yes/No questions during matches, such as whether a player will score in the next 10 minutes. It lets you buy and sell Yes/No positions on match outcomes with points, and follow a live win-probability chart. It lets you collect player cards from picks you get right and trade them card-for-card with league-mates. It lets you sign in with Google, Facebook or Twitch, without needing a crypto wallet.
 
 `TypeScript` `React` `Fastify` `SQLite (better-sqlite3)` `Sui Move` `Anthropic Claude API` `OpenAI gpt-image-2` `Fly.io`
 
