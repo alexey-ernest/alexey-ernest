@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products that give people more control over their work, money, homes and time. My projects include AMA, a résumé and agent that lets people be found and hired through their work, DeepMarket, an assistant that handles errands with the owner's approval, OpenSui, a crypto wallet and messenger, Varvarovka, a house design tool for land buyers, EdgeRunner, a trading toolkit for arbitrage traders, and FIL 2026, a live football prediction game for friend groups. Earlier I built geological data, retail and smart-city software, and a trading platform for other companies.
+I build consumer products that let people act on their own information, money and plans: a résumé agent that helps builders get found and hired through their work, an assistant for households' email and errands, a house design tool, a crypto wallet, a trading toolkit and a football prediction game for friend groups. Earlier I built data and software systems for Google X, Walmart, Verizon and Watstock, including geological digitisation, self-service screens, city traffic services and an AI trading platform.
 
 ### Projects
 
