@@ -39,7 +39,7 @@ DeepMarket is an assistant for individuals and households that handles their inb
 
 *Sole builder and architect · Aug 2026 – present*
 
-OpenSui is a self-custody wallet for the Sui blockchain. It runs as a Chrome extension, as an iPhone or web app, and as a read-only web portal. Before you sign anything, it shows in plain words what the transaction will do and how your balances will change. You can pay gas in coins other than SUI, save any transaction as a reusable template and run it again on one wallet or many, and ask an AI composer to build a transaction from a sentence. The same wallet also handles swaps, lending, DeepBook trading, perps and Predict, and has encrypted messaging, payments and calls between addresses. The goal is to use Sui apps from one place without signing transactions you cannot read.
+OpenSui is a non-custodial wallet for the Sui blockchain that lets people see what they are signing, act without first holding SUI for fees, and repeat multi-step actions without rebuilding them. It lets you read plain-language explanations and net-change figures before any transaction is signed, and send coins by address or SuiNS name. It lets you pay network fees in other coins or receive sponsored gas, and it lets you trade, lend and borrow across several Sui protocols from one place. It lets you save any transaction as a reusable template and run it again against your live balances, including across many wallets. It also lets you send end-to-end encrypted messages, payments and files to any Sui address, with no registration.
 
 `TypeScript` `React` `WXT (MV3 Chrome extension)` `Capacitor` `@mysten/sui SDK (gRPC + GraphQL)` `hash-wasm (Argon2id)` `@noble curves/ciphers/hashes` `Anthropic SDK`
 
