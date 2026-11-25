@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build software products for people who want to act on their own information, including a hiring résumé and personal assistant, a house planner for people without architecture training, a self-custody crypto wallet, an arbitrage trading desk, and a social prediction game for friend groups. Earlier, as a senior engineer and lead with EPAM Systems and other teams, I built geological data tools, retail self-service screens, smart city traffic systems and an AI trading platform.
+I build tools that put people in control of their own money, plans and hiring: a résumé and hiring agent, a personal assistant that acts only with approval, a self-custody crypto wallet, a house planner for non-architects, a trading desk and a football prediction game for friends. Earlier I built geological data tools, retail self-service screens, smart city traffic systems and an AI trading platform.
 
 ### Projects
 
