@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products for people and professionals: a public résumé and agent, a household assistant, a crypto wallet, a house design tool, a crypto trading desk and a friends' football prediction game. Earlier I built enterprise systems for geological data, store self-service screens, city traffic analysis and AI market forecasting. Across these I have worked as a founder, sole builder and senior engineer.
+I build products that let people act through software while keeping control: a public résumé with an agent that answers recruiters, an assistant for inboxes and bookings, a house design planner, trading and crypto wallet tools, and a prediction game for football fans. Earlier I built data and web systems for smart cities, geological records and AI trading, leading engineers at EPAM Systems and Watstock.
 
 ### Projects
 
