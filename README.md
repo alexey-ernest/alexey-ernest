@@ -11,9 +11,9 @@ I build products that put AI and money tools in everyday people's hands: a perso
 
 #### AMA
 
-*Back-end developer · Nov 2026 – present*
+*fullstack developer · Nov 2026 – present*
 
-AMA is a personal AI agent that answers visitors' questions about its owner using only what the owner has chosen to make public, and it gives the owner a published résumé with project pages, a version tailored to each job, and a rehearsal scan that finds gaps before the résumé is sent. It can also search job boards and send applications from the owner's own phone, which cuts down the manual steps of job hunting. I was the back-end developer on the project.
+AMA is a public résumé and agent for software builders and other professionals who want to be found and hired through their work. Recruiters and clients can use it too. You can publish your projects as pages that visitors can read and watch. After you approve them, short videos show each project running on made-up data. You can connect your GitHub repositories, so your projects and their summaries come from your code and stay current. For each piece of your work, you choose who can see it and whether visitors can ask questions about it. You can also prepare a tailored résumé for each job and share it as a link. Before sending your résumé out, you can test it against common recruiter questions. Visitors can ask the agent about you. It answers only from what you allow, either as text or through a live AI avatar of you.
 
 `TypeScript / Node 22` `node:http` `React, Vite, Tailwind` `Postgres 16 + pgvector` `Restate` `Anthropic Claude (Haiku/Opus)` `Voyage embeddings` `Playwright`
 
