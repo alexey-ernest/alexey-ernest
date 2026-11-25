@@ -27,7 +27,7 @@ AMA is a personal AI agent that lets software builders and other professionals s
 
 *Subagents father · Oct 2026 – Nov 2026*
 
-DeepMarket is an assistant for individuals and households that handles their inbox, calendar, bookings, bills and errands without needing full trust, plus a market where agent builders sell their services to such assistants. It lets you turn actionable email into tasks and send a suggested reply only after you approve it, with a two-minute window to cancel. It lets you hire travel, shopping and search agents from the chat and compare their results as cards with links. It lets you watch a flight fare and get an alert when it drops well below its usual price. It lets you check bills, compare energy plans, and follow up an emailed claim until it is settled. It lets you approve account changes such as cancellations or payments on your phone, after seeing every term first.
+DeepMarket is a personal assistant for individuals and households who want help with their inbox, calendar, bookings, bills and errands without handing over their private accounts. Through a chat, it hires independent sub-agents and pays them in USDC through an escrow that releases payment only when the user accepts the result, and nothing is sent, booked or paid until the user approves it with a passkey.
 
 `Rust` `Restate` `PostgreSQL` `TypeScript / Node.js` `React` `Solidity / Foundry` `JSON Schema 2020-12` `Playwright / Chromium`
 
@@ -39,7 +39,7 @@ DeepMarket is an assistant for individuals and households that handles their inb
 
 *Sole builder and architect · Aug 2026 – present*
 
-OpenSui is a non-custodial wallet for the Sui blockchain that lets people see what they are signing, act without first holding SUI for fees, and repeat multi-step actions without rebuilding them. It lets you read plain-language explanations and net-change figures before any transaction is signed, and send coins by address or SuiNS name. It lets you pay network fees in other coins or receive sponsored gas, and it lets you trade, lend and borrow across several Sui protocols from one place. It lets you save any transaction as a reusable template and run it again against your live balances, including across many wallets. It also lets you send end-to-end encrypted messages, payments and files to any Sui address, with no registration.
+OpenSui is a Sui wallet for people who cannot read the transactions their wallet asks them to sign and for new users who hold no SUI yet. It shows each transaction in plain sentences with the amounts before signing, and lets people save any transaction as a template to repeat across one wallet or many.
 
 `TypeScript` `React` `WXT (MV3 Chrome extension)` `Capacitor` `@mysten/sui SDK (gRPC + GraphQL)` `hash-wasm (Argon2id)` `@noble curves/ciphers/hashes` `Anthropic SDK`
 
@@ -51,7 +51,7 @@ OpenSui is a non-custodial wallet for the Sui blockchain that lets people see wh
 
 *Experimentator · Nov 2026*
 
-Varvarovka is a house design tool for homeowners and buyers of land plots who want to plan a house on their own lot without CAD skills, giving them a sketch that is geometrically correct, can be shared, and can be checked for how it will be to live in. It lets you start from an empty lot or from an example villa, or describe your rooms, such as 3 bedrooms and 2 bathrooms, and get a full single-storey plan in well under a second. It lets you ask for changes in plain words, such as move the sofa 30 cm left, and see the scene update at once, with each saved change kept as a numbered version you can return to. It lets you import a floor plan image or a scanned survey sheet, then pick one lot and cut its ground out as the site. It lets you walk through the house and lot at eye height, opening doors and climbing small steps. It lets you ask for a photoreal render of the current view, lit for the date and time you choose. It also checks the design for safety and use, flagging paths that are too steep, pools a child could reach, and furniture that cannot be reached.
+Varvarovka is a house planner for people who want to design a home on their own land without CAD skills. You describe the house in a chat and watch it appear on a 3D model of your lot, with each change checked against boundary and safety rules, and you can walk through the result at eye height.
 
 `three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
 
@@ -63,7 +63,7 @@ Varvarovka is a house design tool for homeowners and buyers of land plots who wa
 
 *Founder and trader · 2022–present*
 
-EdgeRunner is a trading toolkit for crypto traders and arbitrage operators who hold coins on several exchanges and on-chain venues. It judges price gaps at the size that can actually fill, net of fees, on books that are in sync, with a transfer route that can settle. It lets you scan live routes ranked by dollars per hour of capital time, with a safety score of recommended, caution or avoid on each. It lets you walk a route leg by leg in the browser, placing limit orders and on-chain swaps while keeping your keys in an encrypted vault on your own device. It lets you estimate how long a transfer will take on each chain and top up the first leg of a route from the balances that are running low. It lets you check venue health by measuring book freshness, not just connection status, and review realized profit per asset.
+EdgeRunner is a monitoring and trading desk for crypto traders and arbitrage operators who hold coins on several exchanges and on-chain venues. It ranks live arbitrage routes by dollars earned per hour of capital tied up, with a safety verdict on each, so they can act only on opportunities that are executable and able to settle.
 
 `Rust` `Tokio` `tokio-tungstenite` `crossbeam-channel` `axum / tower-http` `SQLite (rusqlite)` `crc32fast` `React + Zustand`
 
@@ -74,9 +74,9 @@ EdgeRunner is a trading toolkit for crypto traders and arbitrage operators who h
 
 *Sole builder, architect and player · Apr 2026 – Aug 2026*
 
-FIL 2026 is a World Cup game for groups of football fans who want to play each other for a shared USDC prize pool. It lets you join a friend league with an invite code and stake USDC into a pot shared by the group. It lets you answer live Yes/No questions during matches, such as whether a player will score in the next 10 minutes. It lets you buy and sell Yes/No positions on match outcomes with points, and follow a live win-probability chart. It lets you collect player cards from picks you get right and trade them card-for-card with league-mates. It lets you sign in with Google, Facebook or Twitch, without needing a crypto wallet.
+FIL 2026 is a World Cup prediction game for groups of friends who want to play against each other for a shared USDC prize pool. Players join a private league with an invite code, answer live Yes/No pop-up questions during matches, and trade positions on match outcomes, so that a group can follow every game together without needing crypto experience.
 
-`TypeScript` `React` `Fastify` `SQLite (better-sqlite3)` `Sui Move` `Anthropic Claude API` `OpenAI gpt-image-2` `Fly.io`
+`TypeScript / Node.js` `Fastify` `SQLite (better-sqlite3)` `Zod` `Sui Move` `@mysten/sui (gRPC, GraphQL)` `Mysten dapp-kit and Enoki` `jose`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b/play" alt="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" title="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" width="320"></a></p>
 
@@ -88,7 +88,7 @@ FIL 2026 is a World Cup game for groups of football fans who want to play each o
 
 *Senior Software Engineer · 2021 – Mar 2022*
 
-An R&amp;D engagement at Google X \(via EPAM Systems\) to digitise and structure geological and drilling-well information from petroleum-industry sources for digital geological mapping. I developed the Python software, applied machine-learning, computer-vision and image-processing libraries to detect colours, shapes and patterns in digitised records, and contributed to processing seismic-sensor data, including prototyping, system design, testing and code review.
+Geological data digitisation work for petroleum-industry teams, turning drilling-well records and technical documents into structured data for digital geological mapping. The software reads colours, shapes and visual patterns in scanned records, and the work was carried out as a research and development engagement for Google X through EPAM Systems.
 
 `Python`
 
@@ -100,7 +100,7 @@ An R&amp;D engagement at Google X \(via EPAM Systems\) to digitise and structure
 
 *Senior Software Engineer · Jul 2020 – Jan 2021*
 
-I developed reusable React components and screens for Walmart self-service systems \(via EPAM Systems\), integrated frontend logic with internal APIs, and implemented and tested features in CI and Agile delivery.
+Self-service systems UI at Walmart is the customer-facing screens and reusable interface parts used at Walmart's self-service checkout and kiosk systems, helping shoppers move through their purchases on their own. The work covered building and testing features that connect those screens to internal services.
 
 `JavaScript` `TypeScript` `React` `Jest` `Enzyme`
 
@@ -110,7 +110,7 @@ I developed reusable React components and screens for Walmart self-service syste
 
 *Senior Software Engineer · May 2019 – Jul 2020*
 
-Smart City systems that collect, process and analyse traffic and location data from traffic lights, emergency vehicles, telecommunications and other urban sources. Via EPAM Systems, I developed REST APIs and backend services, built geospatial visualisations and interactive traffic-analysis maps, and optimised SQL queries, APIs, latency and throughput.
+Verizon Smart City is a set of urban systems for cities that need to understand traffic and movement, letting city teams see how traffic flows and where emergency vehicles travel, so that they can manage roads and respond faster. Built and running in 2019 and 2020 as part of Verizon's smart city work.
 
 `Scala` `Node.js` `Express` `React` `Kepler.gl` `http4s` `Cats` `AWS Aurora/MySQL` `Docker` `DC/OS` `Jenkins`
 
@@ -122,7 +122,7 @@ Smart City systems that collect, process and analyse traffic and location data f
 
 *Lead Software Engineer · Nov 2016 – Sep 2017*
 
-This project was an AI-based trading platform that predicts market prices and trends. I built the big-data pipelines and the web APIs used by mobile and web apps. I also set up GPU cloud infrastructure for training neural networks, including MLP, RNN and ELM models. As technical project manager, I led a small data-engineering team, ran code reviews, and mentored junior developers.
+Watstock's AI-powered trading platform helps traders and investors anticipate market prices and trends, so they can make more informed buying and selling decisions. It serves both mobile and web users and draws on large volumes of market data.
 
 `Spark` `Spark SQL` `Spark Streaming` `AWS EMR` `Node.js` `MongoDB` `Docker` `AWS`
 
