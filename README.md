@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build AI agents, wallets, messengers, trading and planning tools for job seekers, households, traders, football fans and homeowners, each keeping people in control of their own accounts and data. Earlier I built self-service checkout screens at Walmart, traffic systems for Verizon Smart City, an AI trading platform at Watstock and geological data tools at Google X.
+I build AI products that put people in control of their own work and money: an always-current résumé agent, a personal assistant that asks before acting, a wallet that explains what it signs, a house planner and a trading desk. I also make live prediction games for friend groups, and earlier I built geological digitisation, self-checkout screens, city traffic systems and AI trading platforms. Based in Gold Coast, Australia, I work as an AI product engineer.
 
 ### Projects
 
@@ -15,7 +15,7 @@ I build AI agents, wallets, messengers, trading and planning tools for job seeke
 
 AMA is a personal AI agent that lets software builders and other professionals show their work to recruiters and clients, who can read a published résumé and ask questions about the owner's projects. It answers only from what the owner chooses to make public, so recruiters can see what a builder has actually made without relying on a text résumé alone.
 
-`TypeScript / Node 22` `node:http` `React, Vite, Tailwind` `Postgres 16 + pgvector` `Restate` `Anthropic Claude (Haiku/Opus)` `Voyage embeddings` `Playwright`
+`TypeScript` `Node.js` `React` `Tailwind CSS` `PostgreSQL` `pgvector` `Voyage AI` `Anthropic Claude`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
