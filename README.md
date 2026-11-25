@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build AI-powered products. These include a résumé agent that answers recruiters' questions, a personal agent that handles everyday tasks, and a house planner that turns a plot of land and a floor plan into a photorealistic model. I also build crypto trading tools: a wallet that explains transactions, a trading desk that watches for price gaps, and a World Cup prediction game for friends. Earlier, I worked on R&amp;D projects, smart city systems, and trading platforms.
+I build products that put AI and money tools in everyday people's hands: a personal agent that answers visitors and helps with job hunting, an errand assistant that waits for approval before acting, a self-custody crypto wallet, a house planner for people without architecture skills, a crypto trading desk, and a football prediction game for friend groups. Earlier I built systems for geological data, retail self-service screens, city traffic analysis and an AI trading platform. Across all of it I aim for tools people can check before they act.
 
 ### Projects
 
