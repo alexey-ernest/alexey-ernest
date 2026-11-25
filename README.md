@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build tools that put people in control of their own money, plans and hiring: a résumé and hiring agent, a personal assistant that acts only with approval, a self-custody crypto wallet, a house planner for non-architects, a trading desk and a football prediction game for friends. Earlier I built geological data tools, retail self-service screens, smart city traffic systems and an AI trading platform.
+I build products for individuals and small groups: a résumé that answers recruiters' questions, an assistant for email and bookings, a self-custody wallet, a house planner, a friends' football prediction game, and a trading desk for price gaps. Most are built to let people act on their own accounts and money while keeping control. Earlier I built enterprise systems for Walmart and Verizon and led a data team at Watstock.
 
 ### Projects
 
