@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products that act for everyday people: personal AI assistants, a crypto wallet that explains what it asks people to sign, a house planner for homeowners, a trading desk for arbitrage traders, and a World Cup prediction game for friend groups. I have also worked as an engineer on geological data digitisation, self-service checkout screens, smart city traffic systems and an AI trading platform.
+I build products that put people in control: a personal AI agent that shares my work with recruiters, a household assistant, a crypto wallet that explains each transaction, a house planner for people designing their own land, a crypto trading desk and a World Cup prediction game for friend groups. Earlier I built geological data tools, self-service checkout screens, city traffic systems and an AI trading platform.
 
 ### Projects
 
