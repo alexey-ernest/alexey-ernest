@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products that let people act through software while keeping control: a public résumé with an agent that answers recruiters, an assistant for inboxes and bookings, a house design planner, trading and crypto wallet tools, and a prediction game for football fans. Earlier I built data and web systems for smart cities, geological records and AI trading, leading engineers at EPAM Systems and Watstock.
+I build products that give people more control over their work, money, homes and time. My projects include AMA, a résumé and agent that lets people be found and hired through their work, DeepMarket, an assistant that handles errands with the owner's approval, OpenSui, a crypto wallet and messenger, Varvarovka, a house design tool for land buyers, EdgeRunner, a trading toolkit for arbitrage traders, and FIL 2026, a live football prediction game for friend groups. Earlier I built geological data, retail and smart-city software, and a trading platform for other companies.
 
 ### Projects
 
