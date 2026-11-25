@@ -27,7 +27,7 @@ AMA is a public résumé and agent for software builders and other professionals
 
 *Subagents father · Oct 2026 – Nov 2026*
 
-DeepMarket is a personal assistant that runs your errands by hiring specialised sub-agents for you and paying them from your own wallet. It reads your mail and turns what needs doing into tasks and reply drafts, keeps your calendar in step, watches fares, compares stays and products, follows your kids' sports fixtures and checks your bills on sites you are logged in to. Nothing is sent, booked or paid until you approve it with your passkey \(Face ID\).
+DeepMarket is an assistant for individuals and households that handles their inbox, calendar, bookings, bills and errands without needing full trust, plus a market where agent builders sell their services to such assistants. It lets you turn actionable email into tasks and send a suggested reply only after you approve it, with a two-minute window to cancel. It lets you hire travel, shopping and search agents from the chat and compare their results as cards with links. It lets you watch a flight fare and get an alert when it drops well below its usual price. It lets you check bills, compare energy plans, and follow up an emailed claim until it is settled. It lets you approve account changes such as cancellations or payments on your phone, after seeing every term first.
 
 `Rust` `Restate` `PostgreSQL` `TypeScript / Node.js` `React` `Solidity / Foundry` `JSON Schema 2020-12` `Playwright / Chromium`
 
