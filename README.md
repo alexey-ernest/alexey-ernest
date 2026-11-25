@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products that put people in control of their money, data and work: personal agents that let builders show their work to recruiters, assistants that act on private accounts only after approval, a wallet that explains what it signs, a house planner and a World Cup game for friend groups. I have also built trading desks, retail kiosk screens, city traffic systems and geological data tools for industry, working as a founder, sole builder and senior engineer.
+I build tools for people: a personal AI agent that lets recruiters read published work, an assistant that hires helpers without touching private accounts, a wallet and encrypted messenger, a trading and arbitrage desk, an AI market-forecasting platform, a football prediction game for friends, a house planner for people designing on their own land, and traffic and self-service screens for cities and retailers. Each makes complex systems simpler and safer to use.
 
 ### Projects
 
