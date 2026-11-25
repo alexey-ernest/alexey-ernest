@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products for people who want more from their work and money: a public résumé and agent that lets professionals be found through what they have made, an assistant that handles household errands, a planner that turns a land plot into a house sketch, a football prediction game for friend groups, and crypto wallet and trading tools. Earlier I built traffic systems, retail self-service screens and geological data tools as a senior engineer.
+I build products for people and professionals: a public résumé and agent, a household assistant, a crypto wallet, a house design tool, a crypto trading desk and a friends' football prediction game. Earlier I built enterprise systems for geological data, store self-service screens, city traffic analysis and AI market forecasting. Across these I have worked as a founder, sole builder and senior engineer.
 
 ### Projects
 
