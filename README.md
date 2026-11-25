@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build tools for people: a personal AI agent that lets recruiters read published work, an assistant that hires helpers without touching private accounts, a wallet and encrypted messenger, a trading and arbitrage desk, an AI market-forecasting platform, a football prediction game for friends, a house planner for people designing on their own land, and traffic and self-service screens for cities and retailers. Each makes complex systems simpler and safer to use.
+I build AI agents, wallets, messengers, trading and planning tools for job seekers, households, traders, football fans and homeowners, each keeping people in control of their own accounts and data. Earlier I built self-service checkout screens at Walmart, traffic systems for Verizon Smart City, an AI trading platform at Watstock and geological data tools at Google X.
 
 ### Projects
 
