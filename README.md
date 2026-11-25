@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build AI products that put people in control of their own work and money: an always-current résumé agent, a personal assistant that asks before acting, a wallet that explains what it signs, a house planner and a trading desk. I also make live prediction games for friend groups, and earlier I built geological digitisation, self-checkout screens, city traffic systems and AI trading platforms. Based in Gold Coast, Australia, I work as an AI product engineer.
+I build products that act for everyday people: personal AI assistants, a crypto wallet that explains what it asks people to sign, a house planner for homeowners, a trading desk for arbitrage traders, and a World Cup prediction game for friend groups. I have also worked as an engineer on geological data digitisation, self-service checkout screens, smart city traffic systems and an AI trading platform.
 
 ### Projects
 
@@ -29,7 +29,7 @@ AMA is a personal AI agent that lets software builders and other professionals s
 
 DeepMarket is a personal assistant for individuals and households who want help with their inbox, calendar, bookings, bills and errands without handing over their private accounts. Through a chat, it hires independent sub-agents and pays them in USDC through an escrow that releases payment only when the user accepts the result, and nothing is sent, booked or paid until the user approves it with a passkey.
 
-`Rust` `Restate` `PostgreSQL` `TypeScript / Node.js` `React` `Solidity / Foundry` `JSON Schema 2020-12` `Playwright / Chromium`
+`Rust` `Restate` `PostgreSQL` `TypeScript` `Node.js` `React` `Solidity` `Foundry`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2/play" alt="▶ Watch the video of DeepMarket (0:57)" title="▶ Watch the video of DeepMarket (0:57)" width="320"></a></p>
 
@@ -41,7 +41,7 @@ DeepMarket is a personal assistant for individuals and households who want help 
 
 OpenSui is a Sui wallet for people who cannot read the transactions their wallet asks them to sign and for new users who hold no SUI yet. It shows each transaction in plain sentences with the amounts before signing, and lets people save any transaction as a template to repeat across one wallet or many.
 
-`TypeScript` `React` `WXT (MV3 Chrome extension)` `Capacitor` `@mysten/sui SDK (gRPC + GraphQL)` `hash-wasm (Argon2id)` `@noble curves/ciphers/hashes` `Anthropic SDK`
+`TypeScript` `React` `WXT` `Capacitor` `Sui TypeScript SDK` `Argon2id` `Noble curves` `Noble ciphers`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_62fc04e84d3bebf0/play" alt="▶ Watch the video of OpenSui (0:52)" title="▶ Watch the video of OpenSui (0:52)" width="320"></a></p>
 
@@ -53,7 +53,7 @@ OpenSui is a Sui wallet for people who cannot read the transactions their wallet
 
 Varvarovka is a house planner for people who want to design a home on their own land without CAD skills. You describe the house in a chat and watch it appear on a 3D model of your lot, with each change checked against boundary and safety rules, and you can walk through the result at eye height.
 
-`three.js` `delaunator` `React + Vite` `ajv` `Postgres 16 + pgvector` `Anthropic Claude` `OpenAI APIs` `Voyage AI`
+`three.js` `delaunator` `React` `Vite` `ajv` `Postgres` `pgvector` `Anthropic Claude`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_9d1ff7b122fc21ef"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_9d1ff7b122fc21ef/play" alt="▶ Watch the video of Varvarovka (0:50)" title="▶ Watch the video of Varvarovka (0:50)" width="320"></a></p>
 
@@ -65,7 +65,7 @@ Varvarovka is a house planner for people who want to design a home on their own 
 
 EdgeRunner is a monitoring and trading desk for crypto traders and arbitrage operators who hold coins on several exchanges and on-chain venues. It ranks live arbitrage routes by dollars earned per hour of capital tied up, with a safety verdict on each, so they can act only on opportunities that are executable and able to settle.
 
-`Rust` `Tokio` `tokio-tungstenite` `crossbeam-channel` `axum / tower-http` `SQLite (rusqlite)` `crc32fast` `React + Zustand`
+`Rust` `Tokio` `tokio-tungstenite` `crossbeam-channel` `axum` `tower-http` `SQLite` `crc32fast`
 
 <details>
 <summary>5 more projects</summary>
@@ -76,7 +76,7 @@ EdgeRunner is a monitoring and trading desk for crypto traders and arbitrage ope
 
 FIL 2026 is a World Cup prediction game for groups of friends who want to play against each other for a shared USDC prize pool. Players join a private league with an invite code, answer live Yes/No pop-up questions during matches, and trade positions on match outcomes, so that a group can follow every game together without needing crypto experience.
 
-`TypeScript / Node.js` `Fastify` `SQLite (better-sqlite3)` `Zod` `Sui Move` `@mysten/sui (gRPC, GraphQL)` `Mysten dapp-kit and Enoki` `jose`
+`TypeScript` `Node.js` `Fastify` `SQLite` `Zod` `Sui Move` `Sui TypeScript SDK` `Mysten dapp-kit`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_5d497af5d8e2897b/play" alt="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" title="▶ Watch the video of FIL 2026 — Football Is Life (0:41)" width="320"></a></p>
 
