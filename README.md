@@ -7,6 +7,8 @@ Gold Coast, Australia · open for remote roles
 
 I build products that help people act on their own terms: a personal AI agent that lets recruiters read a published résumé, an assistant that handles bookings and errands with approval at each step, a plain crypto wallet, a house planner, a trading desk and a World Cup game for friends. Earlier I led engineering on geological data tools, self-service checkout screens, city traffic systems and an AI trading platform.
 
+[alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
+
 ### Projects
 
 #### AMA
