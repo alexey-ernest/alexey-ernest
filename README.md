@@ -5,9 +5,9 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products that help individuals and small groups act with confidence: a personal agent that lets recruiters explore my published résumé, an assistant for bills and bookings, a wallet that explains each transaction, a house planner, a crypto arbitrage desk, and a World Cup prediction game for friends. Earlier I built systems at Google X, Walmart, Verizon and Watstock. I turn complex tasks into clear steps people can review and approve.
+I build consumer products for people who are not engineers: an agent that lets recruiters explore a builder's real work, an assistant that acts only with its owner's approval, a readable digital wallet, a house planner, a trading desk and a friends' World Cup prediction game. Earlier I built geological digitisation tools for Google X through EPAM Systems, self-service checkout screens for Walmart, traffic systems for Verizon Smart City and an AI trading platform for Watstock.
 
-[alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
+[\+61420118982](tel:+61420118982)
 
 ### Projects
 
