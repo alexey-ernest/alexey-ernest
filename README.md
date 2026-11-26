@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products that help people act on their own terms: a personal AI agent that lets recruiters read a published résumé, an assistant that handles bookings and errands with approval at each step, a plain crypto wallet, a house planner, a trading desk and a World Cup game for friends. Earlier I led engineering on geological data tools, self-service checkout screens, city traffic systems and an AI trading platform.
+I build personal products for ordinary people, from AMA, an agent that answers recruiters from a published résumé, and DeepMarket, an assistant that asks before it books or pays, to OpenSui, a wallet that explains each action, Varvarovka, a home planner, and EdgeRunner, a trading desk. I also build friend-group games like FIL 2026, and earlier worked on geological digitisation, self-service checkout screens, smart city traffic systems and an AI trading platform.
 
 [alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
 
@@ -31,7 +31,7 @@ AMA is a personal AI agent that lets software builders and other professionals s
 
 DeepMarket is a personal assistant for individuals and households who want help with their inbox, calendar, bookings, bills and errands without handing over their private accounts. Through a chat, it hires independent sub-agents and pays them in USDC through an escrow that releases payment only when the user accepts the result, and nothing is sent, booked or paid until the user approves it with a passkey.
 
-`Rust` `Restate` `PostgreSQL` `TypeScript` `Node.js` `React` `Solidity` `Foundry`
+`Rust` `Restate` `PostgreSQL` `pgvector` `axum` `alloy` `TypeScript` `Node.js`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2/play" alt="▶ Watch the video of DeepMarket (0:57)" title="▶ Watch the video of DeepMarket (0:57)" width="320"></a></p>
 
