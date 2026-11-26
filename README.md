@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build personal products for ordinary people, from AMA, an agent that answers recruiters from a published résumé, and DeepMarket, an assistant that asks before it books or pays, to OpenSui, a wallet that explains each action, Varvarovka, a home planner, and EdgeRunner, a trading desk. I also build friend-group games like FIL 2026, and earlier worked on geological digitisation, self-service checkout screens, smart city traffic systems and an AI trading platform.
+I build products that help individuals and small groups act with confidence: a personal agent that lets recruiters explore my published résumé, an assistant for bills and bookings, a wallet that explains each transaction, a house planner, a crypto arbitrage desk, and a World Cup prediction game for friends. Earlier I built systems at Google X, Walmart, Verizon and Watstock. I turn complex tasks into clear steps people can review and approve.
 
 [alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
 
@@ -17,7 +17,7 @@ I build personal products for ordinary people, from AMA, an agent that answers r
 
 AMA is a personal AI agent that lets software builders and other professionals show their work to recruiters and clients, who can read a published résumé and ask questions about the owner's projects. It answers only from what the owner chooses to make public, so recruiters can see what a builder has actually made without relying on a text résumé alone.
 
-`TypeScript` `Node.js` `React` `Tailwind CSS` `PostgreSQL` `pgvector` `Voyage AI` `Anthropic Claude`
+`TypeScript` `Node.js` `React` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate` `Anthropic Claude`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
