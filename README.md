@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build consumer products for people who are not engineers: an agent that lets recruiters explore a builder's real work, an assistant that acts only with its owner's approval, a readable digital wallet, a house planner, a trading desk and a friends' World Cup prediction game. Earlier I built geological digitisation tools for Google X through EPAM Systems, self-service checkout screens for Walmart, traffic systems for Verizon Smart City and an AI trading platform for Watstock.
+I build AI-powered products that put people in control: a personal agent for recruiters, an assistant that handles bills and bookings after approval, a wallet that explains transactions before signing, a house planner, a trading desk, and a World Cup game for friend groups. Earlier I built city traffic systems, self-service checkout screens and tools that digitise geological records.
 
 [GitHub](https://github.com/alexey-ernest) · [alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
 
