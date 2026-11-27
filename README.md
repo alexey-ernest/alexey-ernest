@@ -5,9 +5,9 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build AI products for everyday people: a personal agent that lets builders show their work to recruiters, an errand assistant that acts only after approval, a house planner, and a wallet that explains what it signs. I also make trading and prediction tools, and have built geological mapping, kiosk, smart city and trading software.
+I build products for people who need more from their software: a personal AI agent that shows builders' work to recruiters, an assistant that runs errands only after approval, a house planner for designing on one's own land, a wallet that explains transactions, crypto trading tools, and a prediction game for friend groups. Earlier I built geological data tools, self-service checkout screens, urban traffic systems and an AI trading platform.
 
-[GitHub](https://github.com/alexey-ernest) · [alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
+[GitHub](https://github.com/alexey-ernest) · [\+61420118982](tel:+61420118982)
 
 ### Projects
 
