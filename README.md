@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build personal AI products that act for people: an assistant for inbox, bookings and errands, an agent that shows a builder's work to recruiters, a house planner for plot owners and a prediction game for friend groups. I also build digital wallets and a trading desk for crypto arbitrage, and earlier worked on geological data, self-service checkout screens, city traffic systems and AI trading tools.
+I build personal products that act for their owners: an AI agent that lets professionals show their work to recruiters, an assistant that handles mail and bookings only after approval, a wallet that explains what it asks you to sign, and a planner that turns a plot of land into a house. I also build trading tools, a prediction game for friend groups, and earlier worked on self-service checkout screens at Walmart, geological data digitisation, city traffic systems at Verizon and an AI trading platform at Watstock.
 
 [GitHub](https://github.com/alexey-ernest) · [alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
 
@@ -17,7 +17,7 @@ I build personal AI products that act for people: an assistant for inbox, bookin
 
 AMA is a personal AI agent that lets software builders and other professionals show their work to recruiters and clients, who can read a published résumé and ask questions about the owner's projects. It answers only from what the owner chooses to make public, so recruiters can see what a builder has actually made without relying on a text résumé alone.
 
-`TypeScript` `Node.js` `React` `Vite` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate` `Vitest`
+`TypeScript` `Node.js` `React` `Vite` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
