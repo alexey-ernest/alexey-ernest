@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build consumer and professional software: a personal agent that lets recruiters question my résumé, an assistant that handles email and errands, a wallet with encrypted messaging, a house planner for one's own land, a prediction game for friend groups, and trading desks for crypto traders. Earlier I built geological data tools, self-service checkout screens, smart city traffic systems and an AI trading platform.
+I build products that put people in control of their work and money: a personal AI agent that helps professionals show their work to recruiters, an assistant that acts only with approval, a wallet and encrypted messenger for newcomers, a house planner for homeowners, a trading desk for arbitrage operators, and a prediction game for friend groups. Earlier I built digitisation, self-service checkout, smart city and trading systems for large companies.
 
 [GitHub](https://github.com/alexey-ernest) · [alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
 
@@ -17,7 +17,7 @@ I build consumer and professional software: a personal agent that lets recruiter
 
 AMA is a personal AI agent that lets software builders and other professionals show their work to recruiters and clients, who can read a published résumé and ask questions about the owner's projects. It answers only from what the owner chooses to make public, so recruiters can see what a builder has actually made without relying on a text résumé alone.
 
-`TypeScript` `Node.js` `React` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate` `Anthropic Claude`
+`TypeScript` `Node.js` `React` `Vite` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
