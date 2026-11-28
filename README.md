@@ -5,7 +5,7 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build consumer and professional software: a personal agent that lets recruiters question my résumé, an assistant that handles email and errands, a wallet with encrypted messaging, a house planner for one's own land, a prediction game for friend groups, and trading desks for crypto traders. Earlier I built geological data tools, self-service checkout screens, smart city traffic systems and an AI trading platform.
+I build consumer and professional software: a personal agent that lets recruiters question my résumé, an assistant that handles email and errands, a wallet with encrypted messaging, a house planner for one's own land, a prediction game for friend groups, and trading desks for crypto traders. Earlier I built geological data tools, self-service checkout screens, smart city traffic systems and an AI trading platform
 
 [GitHub](https://github.com/alexey-ernest) · [alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
 
@@ -17,7 +17,7 @@ I build consumer and professional software: a personal agent that lets recruiter
 
 AMA is a personal AI agent that lets software builders and other professionals show their work to recruiters and clients, who can read a published résumé and ask questions about the owner's projects. It answers only from what the owner chooses to make public, so recruiters can see what a builder has actually made without relying on a text résumé alone.
 
-`TypeScript` `Node.js` `React` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate` `Anthropic Claude`
+`TypeScript` `Node.js` `React` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate` `Anthropic Claude` `Vitest`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
@@ -31,7 +31,7 @@ AMA is a personal AI agent that lets software builders and other professionals s
 
 DeepMarket is a personal assistant for individuals and households who want help with their inbox, calendar, bookings, bills and errands without handing over their private accounts. Through a chat, it hires independent sub-agents and pays them in USDC through an escrow that releases payment only when the user accepts the result, and nothing is sent, booked or paid until the user approves it with a passkey.
 
-`Rust` `Restate` `PostgreSQL` `pgvector` `axum` `alloy` `TypeScript` `Node.js`
+`Rust` `Restate` `PostgreSQL` `pgvector` `axum` `alloy` `TypeScript` `Node.js` `Vitest`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_f81d102773dc19b2/play" alt="▶ Watch the video of DeepMarket (0:57)" title="▶ Watch the video of DeepMarket (0:57)" width="320"></a></p>
 
