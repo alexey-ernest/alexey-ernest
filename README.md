@@ -17,7 +17,7 @@ I build personal AI products that act for people: an assistant for inbox, bookin
 
 AMA is a personal AI agent that lets software builders and other professionals show their work to recruiters and clients, who can read a published résumé and ask questions about the owner's projects. It answers only from what the owner chooses to make public, so recruiters can see what a builder has actually made without relying on a text résumé alone.
 
-`TypeScript` `Node.js` `React` `Vite` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate`
+`TypeScript` `Node.js` `React` `Vite` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate` `Vitest`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
