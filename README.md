@@ -5,9 +5,9 @@
 
 Gold Coast, Australia · open for remote roles
 
-I build products that give people more control over their work, money and homes: a personal AI agent that lets professionals show their work to recruiters, an assistant that acts only with approval, a wallet that explains what it signs, a house planner for your own land and a trading desk for arbitrage. I also built a football prediction game for friend groups, and earlier worked on geological data, self-service checkout, smart city traffic and investor trading platforms.
+I build AI and software products that help people make everyday and high-stakes decisions: a personal agent that represents professionals to recruiters, an assistant for inbox and bookings, a wallet that explains what it signs, a house planner, a trading desk, a football prediction game and geological data tools. Earlier I built traffic systems, self-service checkout screens and a trading platform.
 
-[GitHub](https://github.com/alexey-ernest) · [alexey-melnikov@amaagent.app](mailto:alexey-melnikov@amaagent.app) · [\+61420118982](tel:+61420118982)
+[GitHub](https://github.com/alexey-ernest) · [\+61420118982](tel:+61420118982)
 
 ### Projects
 
@@ -17,7 +17,7 @@ I build products that give people more control over their work, money and homes:
 
 AMA is a personal AI agent that lets software builders and other professionals show their work to recruiters and clients, who can read a published résumé and ask questions about the owner's projects. It answers only from what the owner chooses to make public, so recruiters can see what a builder has actually made without relying on a text résumé alone.
 
-`TypeScript` `Node.js` `React` `Vite` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate` `Vitest`
+`TypeScript` `Node.js` `React` `Vite` `Tailwind CSS` `PostgreSQL` `pgvector` `Restate`
 
 <p><a href="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c"><img src="https://amaagent.app/api/public/alexey-melnikov/videos/vid_4b1144154d06670c/play" alt="▶ Watch the video of AMA (0:50)" title="▶ Watch the video of AMA (0:50)" width="320"></a></p>
 
